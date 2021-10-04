@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="48px" viewBox="0 0 150 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>joinus</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="joinus">
+            <rect id="Rectangle" fill="#F0F8EC" fill-rule="nonzero" transform="translate(91.000000, 20.000000) scale(-1, 1) translate(-91.000000, -20.000000) " x="40" y="8" width="102" height="24"></rect>
+            <path d="M53.5,24.5 L53.5,23 L52,23 L52,21.5 L55,21.5 L55,23 L59.5,23 L59.5,14 L62.5,14 L62.5,23 L61,23 L61,24.5 L53.5,24.5 Z M64.42,24.5 L64.42,23 L62.92,23 L62.92,18.5 L64.42,18.5 L64.42,17 L71.92,17 L71.92,18.5 L73.42,18.5 L73.42,23 L71.92,23 L71.92,24.5 L64.42,24.5 Z M65.92,23 L70.42,23 L70.42,18.5 L65.92,18.5 L65.92,23 Z M78.34,15.5 L78.34,14 L81.34,14 L81.34,15.5 L78.34,15.5 Z M75.34,24.5 L75.34,23 L78.34,23 L78.34,18.5 L76.84,18.5 L76.84,17 L81.34,17 L81.34,23 L84.34,23 L84.34,24.5 L75.34,24.5 Z M84.76,24.5 L84.76,17 L93.76,17 L93.76,18.5 L95.26,18.5 L95.26,24.5 L92.26,24.5 L92.26,18.5 L87.76,18.5 L87.76,24.5 L84.76,24.5 Z M108.1,24.5 L108.1,23 L106.6,23 L106.6,17 L109.6,17 L109.6,23 L114.1,23 L114.1,17 L117.1,17 L117.1,24.5 L108.1,24.5 Z M117.52,24.5 L117.52,23 L125.02,23 L125.02,21.5 L119.02,21.5 L119.02,20 L117.52,20 L117.52,18.5 L119.02,18.5 L119.02,17 L126.52,17 L126.52,18.5 L120.52,18.5 L120.52,20 L126.52,20 L126.52,21.5 L128.02,21.5 L128.02,23 L126.52,23 L126.52,24.5 L117.52,24.5 Z" id="Shape" fill="#82E053" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#C4FDA7" fill-rule="nonzero" transform="translate(36.000000, 24.000000) scale(-1, 1) translate(-36.000000, -24.000000) " x="32" y="8" width="8" height="32"></rect>
+            <rect id="Rectangle" fill="#82E053" x="24" y="16" width="8" height="8"></rect>
+            <rect id="Rectangle" fill="#C4FDA7" fill-rule="nonzero" transform="translate(146.000000, 20.000000) scale(-1, 1) translate(-146.000000, -20.000000) " x="142" y="8" width="8" height="24"></rect>
+            <rect id="Rectangle" fill="#C4FDA7" fill-rule="nonzero" transform="translate(28.000000, 28.000000) scale(-1, 1) translate(-28.000000, -28.000000) " x="16" y="24" width="24" height="8"></rect>
+            <rect id="Rectangle" fill="#C4FDA7" fill-rule="nonzero" transform="translate(28.500000, 36.000000) scale(-1, 1) translate(-28.500000, -36.000000) " x="8" y="32" width="41" height="8"></rect>
+            <rect id="Rectangle" fill="#C4FDA7" fill-rule="nonzero" transform="translate(91.000000, 36.000000) scale(-1, 1) translate(-91.000000, -36.000000) " x="40" y="32" width="102" height="8"></rect>
+            <rect id="Rectangle" fill="#C4FDA7" fill-rule="nonzero" transform="translate(91.000000, 4.000000) scale(-1, 1) translate(-91.000000, -4.000000) " x="40" y="0" width="102" height="8"></rect>
+            <rect id="Rectangle" fill="#82E053" fill-rule="nonzero" transform="translate(67.000000, 44.000000) scale(-1, 1) translate(-67.000000, -44.000000) " x="0" y="40" width="134" height="8"></rect>
+        </g>
+    </g>
+</svg>
